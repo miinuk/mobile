@@ -23,7 +23,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-      <Text style={styles.texto}>opa nicolas</Text>
+      <Text style={styles.texto}>opa  kappa nicolas</Text>
       
       <Button   title='click' />
       
